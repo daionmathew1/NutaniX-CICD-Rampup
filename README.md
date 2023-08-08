@@ -9,7 +9,7 @@ python should be installed in local system
 
 ## step to run this file in local machine
 
-step1- we have to clone this repository to the local machine git clone 
+step1- we have to clone this repository to the local machine 
 
        git clone  https://github.com/daionmathew1/NutaniX-CICD-Rampup.git
 
