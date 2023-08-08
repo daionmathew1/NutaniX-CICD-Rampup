@@ -11,7 +11,7 @@ python should be installed in local system
 
 step1- we have to clone this repository to the local machine git clone 
 
-      https://github.com/daionmathew1/NutaniX-CICD-Rampup.git
+       git clone  https://github.com/daionmathew1/NutaniX-CICD-Rampup.git
 
 step2 - enter into the cloned directory 
 
